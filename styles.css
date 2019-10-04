@@ -176,11 +176,11 @@ img:hover {
   text-align: left;
   line-height: 2em;
 }
-#Order ,#pay,#deliver #{
+#Order,
+#pay,
+#deliver {
   text-decoration: none;
-
 }
-
 
 #section1 {
   margin-bottom: 200px;
